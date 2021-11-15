@@ -55,8 +55,7 @@ Coding Standard PHPCS and PHPCBF
     
    2. after phpcs command done, then run the automatically fix coding standard command
    
-    phpcbf --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md,yml
-    /path/to/drupal/example_module
+    phpcbf --standard=Drupal --extensions=php,module,inc,install,test,profile,theme,css,info,txt,md,yml /path/to/drupal/example_module
     
    **Red color indicates to mention here your project/file path..!!
    
