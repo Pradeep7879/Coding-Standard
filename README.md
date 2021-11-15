@@ -71,3 +71,8 @@ Remember:-
 Drupal Practice can’t be run with phpcbf, because phpcbf can’t be fixed bug related to
 dependency error..
 
+-------------------------------------------------------------------------------------------------------------------
+
+PHPCS and PHPCBF global
+
+    composer global require drupal/coder dealerdirect/phpcodesniffer-composer-installer
